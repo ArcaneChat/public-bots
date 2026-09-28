@@ -33,7 +33,7 @@
     {
       "description": "PixelSocial: the pixelated social network (English instance)",
       "lang": "en",
-      "admin": "testrun",
+      "admin": "adbenitez",
       "url": "https://i.delta.chat/#C753A22A447DE8CA18653B9C7668BC822C0561CA&a=pixsocial%40arcanechat.me&n=PixelSocial&i=sz7HYOnPmjG1WWOclOFlGLFv&s=XJFfgZRHwvTVAvBAQKJxFL2F"
     },
     {
@@ -123,13 +123,13 @@
     {
       "description": "Public bots index/directory 🔍",
       "lang": "en",
-      "admin": "testrun",
+      "admin": "adbenitez",
       "url": "https://i.delta.chat/#67889B0362BEDBFEE05ACD92C1D737FA632A9582&a=botsindex%40arcanechat.me&n=Public%20Bots&i=336MTEz38EH-RJxM9OKWygYK&s=TpVVGK6C4KrJmRG0bwHLalXt"
     },
     {
       "description": "Public bots index/directory 🔍",
       "lang": "en",
-      "admin": "testrun",
+      "admin": "adbenitez",
       "url": "https://i.delta.chat/#9AF055DB87EC48A1C009B6CA55E3712A6F7D346F&a=botsindex%40nine.testrun.org&n=Public%20Bots&i=QpBSronexvP&s=nAfQ0q_JomN"
     },
     {
@@ -225,13 +225,13 @@
     {
       "description": "Allows to download sticker packs",
       "lang": "en",
-      "admin": "testrun",
+      "admin": "adbenitez",
       "url": "https://i.delta.chat/#9DE7DADDC37828D75499BBDC45CA5FACF50E9B18&a=stickersb%40mehl.cloud&n=StickersBot&i=tHkRoHiugej&s=n0x9TjRcUxo"
     },
     {
       "description": "Allows to download sticker packs",
       "lang": "en",
-      "admin": "testrun",
+      "admin": "adbenitez",
       "url": "https://i.delta.chat/#148A6BAAB189EAF805E8BAD90B5E6734D0499E9E&a=adbenitez%40nogafam.me&n=StickersBot&i=hZF9Ddww1rZ&s=KEDgb8FBIb3"
     },
     {
@@ -254,6 +254,7 @@
     }
   ],
   "admins": {
+    "adbenitez": { "url": "mailto:adb@arcanechat.me" },
     "Nelson": { "url": "mailto:nelsonr9608@nauta.cu" },
     "missytake": { "url": "mailto:missytake@systemli.org" },
     "testrun": {
