@@ -1,22 +1,10 @@
 {
   "bots": [
     {
-      "description": "Gemi on DeltaChat: Your smart assistant directly in your inbox. Quick queries, email drafting, text translation, and complex problem-solving. Powered by Google Gemini technology through the decentralized Delta Chat network. Type your question and start creating",
-      "lang": "multi",
-      "admin": "FrancyJ2M",
-      "url": "https://i.delta.chat/#DA85AC6B29008B1615E03155E1AAA97AC9669BE0&v=3&i=nqXrb7FwsTxMzX4FpRzG_DF1&s=RPIqqOShnz1H6UyyoiEcYUOP&a=geminibot%40nine.testrun.org&n=Gemi+A%C3%AE"
-    },
-    {
       "description": "Multipurpose bot with features like web browsing, compressed page downloads, file downloads, meme retrieval, and text translation",
       "lang": "en",
       "admin": "yordante",
       "url": "https://i.delta.chat/#C4634029413CB61FA770131F2A02F4CCE4B57896&a=starlight%40disroot.org&n=MultiBot&i=fkfDDIpxFVq&s=JCg192tuQom"
-    },
-    {
-      "description": "Telegram Connector: Subscribe to your favorite Telegram Channels",
-      "lang": "multi",
-      "admin": "deltafan",
-      "url": "https://i.delta.chat/#F088C9D6200709F9E12C73405C9FE79151FF15B5&v=3&i=S0DgjvgWMEebDFEawdD1jD6c&s=ncHd-ZaTSgij0bwFQDViAmPh&a=o7701rt9c%40nine.testrun.org&n=Telegram+Connector"
     },
     {
       "description": "Easily monitor Delta Chat releases status and availability",
@@ -35,12 +23,6 @@
       "lang": "es",
       "admin": "testrun",
       "url": "https://i.delta.chat/#9CB65C898E3AD0C628133BD4C089D214BD536346&a=social-es%40arcanechat.me&n=PixelSocial%20%F0%9F%87%AA%F0%9F%87%B8&i=23RERfRXBQScBpf0dTNRHs75&s=Ch_-qhmLnrMxfK3Ko4w7HCRy"
-    },
-    {
-      "description": "Web to PDF converter",
-      "lang": "en",
-      "admin": "testrun",
-      "url": "https://i.delta.chat/#43B48FD6AFE0B780E08DEDE70A0DB16EDBE137EC&a=web2pdf01%40bcc.chat&n=Web%20to%20PDF&i=aVeg_0fMaME&s=48WGSWyaIru"
     },
     {
       "description": "Web to PDF converter",
@@ -151,12 +133,6 @@
       "url": "https://i.delta.chat/#279714071CC59EB4A9943122A3B4FF4BB7264A0E&a=faqbot%40testrun.org&n=FAQ%20Bot&i=PhdQtXTJQkp&s=WAPGhvIBtEy"
     },
     {
-      "description": "FAQ bot, allows saving answer to common questions or #tags",
-      "lang": "en",
-      "admin": "testrun",
-      "url": "https://i.delta.chat/#2E1267AC03F8D5DF66A77900E8834ECF42B40E08&a=faqbot001%40koffer.szh.homes&n=FAQ%20Bot&i=AIusNLOYgED&s=BYS8Kx_vvpE"
-    },
-    {
       "description": "Allows to subscribe to RSS/Atom feeds in group chats",
       "lang": "en",
       "admin": "testrun",
@@ -167,12 +143,6 @@
       "lang": "en",
       "admin": "testrun",
       "url": "https://i.delta.chat/#024C525D627CBF5A292FC428A40BF74BE66DA1BC&a=feedsb%40mailchat.pl&n=FeedsBot&i=6eMHA8T69SF&s=M53-Un3pKPa"
-    },
-    {
-      "description": "Allows to subscribe to RSS/Atom feeds in group chats",
-      "lang": "en",
-      "admin": "testrun",
-      "url": "https://i.delta.chat/#CD830583FB1A6ACE0EBB3039052E469F821A75CA&a=simplebot%40systemli.org&n=FeedsBot&i=2oz_mA5Wxcl&s=gsfLuUiP1JS"
     },
     {
       "description": "Bot that allows to invite friends to your private groups so you don't need to be online for them to join",
@@ -242,14 +212,8 @@
     "testrun": {
       "url": "https://i.delta.chat/#2CBB755B2E8728CF00C31C1C25EE97CDD05E7A0F&a=sysadmin%40testrun.org&n=testrun.org%20admins&i=3iKGEoMO1V5&s=IDJTCaSCBAd"
     },
-    "FrancyJ2M": {
-      "url": "OPENPGP4FPR:F855EC3AE2AC5448D77C47D381D62284033B80F1#a=devfrancy%40nine.testrun.org&n=FrancyJ2M&i=bCZJkxDRVxP&s=XmSFm50FXNE"
-    },
     "yordante": {
       "url": "openpgp4fpr:144AD7AC5B7FFBF9DA12231DE4B5F7723A03FA1F#a=zyordante%40chat.lylapol.com&n=%EA%AA%97%EA%AA%AE%F0%9D%98%B3%E1%A6%94%EA%AA%96%EA%AA%80%F0%9D%93%BD%EA%AB%80&i=DeADN4drnFlIc2SVUR_AztVC&s=q4BEU2CDt04hr3vQjX3sKl7V"
-    },
-    "deltafan": {
-      "url": "https://i.delta.chat/#3CECBB50FD2C668F05180772155549B8D0BF222A&v=3&i=CLzOt3ZqOjKCZem4tASPlR8t&s=q0x6bZ_cSCb0CFmsk3C5lZyU&a=wwyr1kw9s%40nine.testrun.org&n=Delta+Fan"
     }
   },
   "langs": {
